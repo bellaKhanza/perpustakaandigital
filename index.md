@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Seporsi Mie Ayam Sebelum Mati](ebook/Seporsi Mie Ayam Sebelum Mati.pdf) – Brian Khrisna (2025)
 9. [Senja di Jakarta](ebook/Senja di Jakarta.pdf) – Mochtar Lubis (2009)
 10. [Lima cm](ebook/Lima cm.pdf) – Donny Dhirgantoro (2005)
+11. [Rangkuman UGC(ebook/Rangkuman.pdf) – Nabella Khanza (2026)
 ---
 Powered by GitHub Pages
