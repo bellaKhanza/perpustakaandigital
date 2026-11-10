@@ -1,3 +1,8 @@
+# Identitas
+Nama    : Nabella Khanza
+NIM     : 13040124140137
+Kelas   : D
+Matkul  : Praktikum Aplikasi Teknologi Informasi
 # Digital Library
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
@@ -13,5 +18,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Senja di Jakarta](ebook/Senja di Jakarta.pdf) – Mochtar Lubis (2009)
 10. [Lima cm](ebook/Lima cm.pdf) – Donny Dhirgantoro (2005)
 11. [Rangkuman](ebook/Rangkuman.pdf) – Nabella (2026)
----
-Powered by GitHub Pages
+12. Powered by GitHub Pages
