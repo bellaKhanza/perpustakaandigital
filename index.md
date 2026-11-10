@@ -1,8 +1,8 @@
 # Identitas
-- Nama   : Nabella Khanza
-- NIM    : 13040124140137
-- Kelas  : D
-- Matkul : Praktikum Aplikasi Teknologi Informasi
+Nama   : Nabella Khanza  
+NIM    : 13040124140137  
+Kelas  : D  
+Matkul : Praktikum Aplikasi Teknologi Informasi
 # Digital Library
 Selamat Datang di Perpustakaan Digital  
 Berikut ini adalah Koleksi yang dimiliki:
