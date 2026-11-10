@@ -4,8 +4,8 @@
 - Kelas  : D
 - Matkul : Praktikum Aplikasi Teknologi Informasi
 # Digital Library
-Selamat Datang di Perpustakaan Digital
-- Berikut ini adalah Koleksi yang dimiliki:
+Selamat Datang di Perpustakaan Digital  
+Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Interlibrary loan in Türkiye](ebook/Interlibrary loan in Türkiye.pdf) – Rumeysa (2023) 
 2. [Tentang Kamu](ebook/Tentang Kamu.pdf) – Tere Liye (2016)
@@ -18,4 +18,4 @@ Selamat Datang di Perpustakaan Digital
 9. [Senja di Jakarta](ebook/Senja di Jakarta.pdf) – Mochtar Lubis (2009)
 10. [Lima cm](ebook/Lima cm.pdf) – Donny Dhirgantoro (2005)
 11. [Rangkuman](ebook/Rangkuman.pdf) – Nabella (2026)
-Powered by GitHub Pages
+    Powered by GitHub Pages
