@@ -7,7 +7,7 @@
 Selamat Datang di Perpustakaan Digital  
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [Interlibrary loan in Türkiye](ebook/Interlibrary loan in Türkiye.pdf) – Rumeysa (2023) 
+1. [Interlibrary loan in Türkiye](ebook/Interlibrary loan in Türkiye.pdf) – Rumeysa (2023)
 2. [Tentang Kamu](ebook/Tentang Kamu.pdf) – Tere Liye (2016)
 3. [Merayakan Kehilangan](ebook/Merayakan Kehilangan.pdf) – Brian Khrisna (2016)
 4. [Seni Mencintai Diri Sendiri](ebook/Seni Mencintai Diri Sendiri.pdf) – Suha Hoedi (2016)
